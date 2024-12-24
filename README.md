@@ -1,7 +1,6 @@
-👋 Yo, I’m @SFG006  
-💻 Exploring Python and making it work (most of the time)  
-🚀 Always learning and experimenting with new ideas  
-🎥 Movie buff creating edits on Instagram: [@illustrious_films](https://instagram.com/illustrious_films)  
+👋 Hi, I’m @SFG006  
+🐍 Exploring Python and turning ideas into projects (most of the time)  
+🎬 Movie buff creating edits on Instagram: [@illustrious_films](https://instagram.com/illustrious_films)  
 📩 Reach me at: shivanshg005@gmail.com
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/illustrious_films) 
