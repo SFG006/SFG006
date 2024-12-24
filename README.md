@@ -2,8 +2,6 @@
 🐍 Exploring Python and turning ideas into projects (most of the time)  
 🎬 Movie buff creating edits on Instagram: [@illustrious_films](https://instagram.com/illustrious_films)  
 📩 Reach me at: shivanshg005@gmail.com
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/illustrious_films) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
