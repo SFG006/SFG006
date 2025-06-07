@@ -12,9 +12,7 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 # 💻 Tech Stack:
 
 #### 🧠 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python)
 
 #### 🐧 OS & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
