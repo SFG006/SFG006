@@ -19,19 +19,19 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 
 #### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="./linux.png" width="150" />
-  <img src="./github-icon.svg" width="150" />
-  <img src="./git.png" width="150" />
-  <img src="./ubuntu.png" width="150" />
-  <img src="./mysql-icon.svg" width="150" />
-  <img src="./docker-icon.svg" width="150" />
+  <img src="./linux.png" width="100" />
+  <img src="./github-icon.svg" width="100" />
+  <img src="./git.png" width="100" />
+  <img src="./ubuntu.png" width="100" />
+  <img src="./mysql-icon.svg" width="100" />
+  <img src="./docker-icon.svg" width="100" />
 </p>
 
 
 #### 🧰 IDEs & Notebooks
 <p align="center">
-  <img src="./jupyter_notebook.png" width="150" />
-  <img src="./pycharm.png" width="150" />
+  <img src="./jupyter_notebook.png" width="100" />
+  <img src="./pycharm.png" width="100" />
 </p>
 
 
