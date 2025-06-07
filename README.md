@@ -43,11 +43,12 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 
 ## 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SFG006&theme=gruvbox&no-frame=false&no-bg=true&margin-w=8" /> </p>
----
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SFG006/SFG006/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SFG006/SFG006/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SFG006/SFG006/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SFG006/SFG006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SFG006/SFG006/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SFG006/SFG006/output/github-snake.svg" />
+  </picture>
+</div>
