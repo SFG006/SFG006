@@ -20,6 +20,7 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 <p align="center">
   <img src="./mysql-icon.svg" width="150" />
   <img src="./github-icon.svg" width="150" />
+  <img src="./git.png" width="150" />
 </p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
