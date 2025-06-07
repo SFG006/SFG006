@@ -42,7 +42,7 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SFG006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SFG006&theme=radical&no-frame=false&no-bg=true&margin-w=8" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SFG006&theme=gruvbox&no-frame=false&no-bg=true&margin-w=8" /> </p>
 ---
 
 
