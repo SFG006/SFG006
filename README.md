@@ -37,20 +37,15 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 
 
 # 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SFG006&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SFG006&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SFG006&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="display:inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SFG006&theme=dark&hide_border=true" style="display:inline-block;" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFG006&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFG006&theme=dark&hide_border=true&layout=compact" />
 </p>
+
 
 
 ## 🏆 GitHub Trophies
