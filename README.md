@@ -1,12 +1,13 @@
 ![GIF](./lofi.gif)
 
 
-🧠 About Me
-Hey! I’m Shivansh 👋 — a curious mind who loves building cool stuff with 🐍 Python.
-Currently exploring the worlds of ☁️ cloud computing and 📊 data science, one project at a time.
-I enjoy solving problems, learning new tools, and turning ideas into reality through code 💡💻
-When I’m not debugging or sipping chai, I’m editing films on 🎬 @illustrious_films.
-Let’s connect and create something awesome! 📩 shivanshg005@gmail.com
+### 🧠 About Me
+
+Hey! I’m Shivansh 👋 — a curious mind who loves building cool stuff with 🐍 Python.  
+Currently exploring the worlds of ☁️ **cloud computing** and 📊 **data science**, one project at a time.  
+I enjoy solving problems, learning new tools, and turning ideas into reality through code 💡💻  
+When I’m not debugging or sipping chai, I’m editing films on 🎬 [@illustrious_films](https://instagram.com/illustrious_films).  
+Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
