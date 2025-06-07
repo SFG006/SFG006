@@ -38,12 +38,12 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SFG006&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="display:inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SFG006&theme=dark&hide_border=true" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SFG006&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SFG006&theme=dark&hide_border=true" width="45%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFG006&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFG006&theme=dark&hide_border=true&layout=compact" width="40%" />
 </p>
 
 
