@@ -12,17 +12,19 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 # 💻 Tech Stack:
 
 #### 🧠 Languages & Scripting
-<p>
+<p align="center">
   <img src="./python-icon.svg" width="150" />
   <img src="./bash.png" width="150" />
+</p>
   
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,bash,SQL)
 
 #### 🐧 OS & Tools
 <p align="center">
-  <img src="./mysql-icon.svg" width="150" />
+  <img src="./linux.png" width="150" />
   <img src="./github-icon.svg" width="150" />
   <img src="./git.png" width="150" />
+  <img src="./mysql-icon.svg" width="150" />
 </p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -32,8 +34,12 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 <img src="./docker-icon.svg" width="150" />
 
 #### 🧰 IDEs & Notebooks
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+<p align="center">
+  <img src="./jupyter_notebook.png" width="150" />
+  <img src="./pycharm.png" width="150" />
+  <img src="./ubuntu.png" width="150" />
+</p>
+
 
 
 # 📊 GitHub Stats:
