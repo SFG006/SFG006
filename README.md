@@ -17,25 +17,21 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
   <img src="./bash.png" width="150" />
 </p>
 
-#### 🐧 OS & Tools
+#### 🛠️ Tools & Platforms
 <p align="center">
   <img src="./linux.png" width="150" />
   <img src="./github-icon.svg" width="150" />
   <img src="./git.png" width="150" />
+  <img src="./ubuntu.png" width="150" />
   <img src="./mysql-icon.svg" width="150" />
-</p>
-
-
-#### 🐳 Containers
-<p align="center">
   <img src="./docker-icon.svg" width="150" />
 </p>
+
 
 #### 🧰 IDEs & Notebooks
 <p align="center">
   <img src="./jupyter_notebook.png" width="150" />
   <img src="./pycharm.png" width="150" />
-  <img src="./ubuntu.png" width="150" />
 </p>
 
 
