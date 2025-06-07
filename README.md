@@ -1,13 +1,19 @@
 ![GIF](./lofi.gif)
 
+<h1 align="center">Hi there 👋, I'm SFG</h1>
+<p align="center">
+  <em>"Linux is not just an operating system; it’s a way of thinking."</em><br/>
+  <em>"AI isn’t here to replace us, but to amplify human potential."</em>
+</p>
 
-### 🧠 About Me
 
-Hey! I’m Shivansh 👋 — a curious mind who loves building cool stuff with 🐍 Python.  
-Currently exploring the worlds of ☁️ **cloud computing** and 📊 **data science**, one project at a time.  
-I enjoy solving problems, learning new tools, and turning ideas into reality through code 💡💻  
-When I’m not debugging or sipping chai, I’m editing films on 🎬 [@illustrious_films](https://instagram.com/illustrious_films).  
-Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
+### 🔥 About Me:
+- 🐍 Python & Bash lover
+- 🐧 Linux is my playground    
+- 🤖 Currently learning AI Agent development  
+- 📫 Reach me at: shivanshg005@gmail.com  
+- 🎬 I’m editing films on [@illustrious_films](https://instagram.com/illustrious_films) 
+
 
 # 💻 Tech Stack:
 
