@@ -13,8 +13,8 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 
 #### 🧠 Languages & Scripting
 <p align="center">
-  <img src="./python-icon.svg" width="150" />
-  <img src="./bash.png" width="150" />
+  <img src="./python-icon.svg" width="60" />
+  <img src="./bash.png" width="60" />
 </p>
 
 #### 🛠️ Tools & Platforms
