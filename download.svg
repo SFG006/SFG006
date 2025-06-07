@@ -1,0 +1,57 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes roll-in {
+        0% {
+          opacity: 0;
+          transform: translateX(-200px) rotate(-360deg);
+        }
+        100% {
+          opacity: 1;
+          transform: translateX(0) rotate(0deg);
+        }
+      }
+
+      #bash-icon {
+        animation: roll-in 2s ease-out forwards;
+        transform-origin: 50% 50%;
+      }
+
+      .hex {
+        fill: #ffffff;
+        stroke: #2c2f33;
+        stroke-width: 10;
+        stroke-linejoin: round;
+      }
+
+      .terminal {
+        fill: #2c2f33;
+      }
+
+      .dollar {
+        fill: #ffffff;
+        font-size: 120px;
+        font-weight: bold;
+        font-family: Arial, sans-serif;
+      }
+
+      .bar {
+        fill: #4CAF50;
+      }
+    </style>
+  </defs>
+
+  <g id="bash-icon">
+    <!-- Rounded hexagon background -->
+    <path class="hex" d="M189 14c22-13 49-13 71 0l165 95c22 13 35 36 35 61v190c0 25-13 48-35 61l-165 95c-22 13-49 13-71 0L59 421c-22-13-35-36-35-61V170c0-25 13-48 35-61L189 14z"></path>
+
+    <!-- Dark terminal area with curved edge -->
+    <path class="terminal" d="M459 130c-4-10-19-17-29-11L223 256c-17 10-27 29-27 49v123c0 15 9 29 23 35 6 3 13 3 20-1l180-104c19-11 32-31 32-54V130z"></path>
+
+    <!-- Dollar sign -->
+    <text x="280" y="295" class="dollar" text-anchor="middle" alignment-baseline="middle">$</text>
+
+    <!-- Green command bar -->
+    <rect class="bar" x="330" y="320" width="45" height="12" rx="2"></rect>
+  </g>
+</svg>
