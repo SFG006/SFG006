@@ -12,6 +12,8 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 # 💻 Tech Stack:
 
 #### 🧠 Languages & Scripting
+<img src="./python-icon.svg" width="150" />
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,bash,SQL)
 
 #### 🐧 OS & Tools
