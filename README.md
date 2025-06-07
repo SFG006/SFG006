@@ -12,7 +12,7 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 # 💻 Tech Stack:
 
 #### 🧠 Languages & Scripting
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,bash,sql)
 
 #### 🐧 OS & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
