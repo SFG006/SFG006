@@ -13,8 +13,6 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 
 #### 🧠 Languages & Scripting
 <img src="./python-icon.svg" width="150" />
-<img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash Icon" width="65" height="65" />
-
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,bash,SQL)
 
