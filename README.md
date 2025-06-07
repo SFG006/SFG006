@@ -16,8 +16,6 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
   <img src="./python-icon.svg" width="150" />
   <img src="./bash.png" width="150" />
 </p>
-  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,bash,SQL)
 
 #### 🐧 OS & Tools
 <p align="center">
@@ -27,11 +25,11 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
   <img src="./mysql-icon.svg" width="150" />
 </p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 #### 🐳 Containers
-<img src="./docker-icon.svg" width="150" />
+<p align="center">
+  <img src="./docker-icon.svg" width="150" />
+</p>
 
 #### 🧰 IDEs & Notebooks
 <p align="center">
