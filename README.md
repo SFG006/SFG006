@@ -19,7 +19,6 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SFG006/SFG006/output/github-snake-dark.svg" />
