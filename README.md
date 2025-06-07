@@ -14,6 +14,8 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 #### 🧠 Languages & Scripting
 <img src="./python-icon.svg" width="150" />
 <img src="./download.svg" width="150" />
+<img src="./bash.svg" width="150" />
+
 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,bash,SQL)
