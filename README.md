@@ -1,5 +1,6 @@
-![GIF](./lofi.gif)
-
+<p align="center">
+  <img src="./lofi.gif" width="600" alt="Lofi Coding GIF"/>
+</p>
 
 👋 Hi, I’m @SFG006  
 🐍 Exploring Python and turning ideas into projects (most of the time)  
