@@ -37,10 +37,16 @@ Let’s connect and create something awesome! 📩 **shivanshg005@gmail.com**
 
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SFG006&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SFG006&theme=dark&hide_border=false" height="180"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SFG006&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SFG006&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFG006&theme=dark&hide_border=false&layout=compact" />
