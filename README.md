@@ -8,9 +8,7 @@
 
 
 ### 🔥 About Me:
-- 🐍 Python & Bash lover
-- 🐧 Linux is my playground    
-- 🤖 Currently learning AI Agent development  
+Currently pursuing a Master of Computer Applications (MCA) at the University of Delhi. I enjoy solving problems, building tools, and learning technologies by going deep into the why behind them.
 - 📫 Reach me at: shivanshg005@gmail.com  
 - 🎬 I’m editing films on [@illustrious_films](https://instagram.com/illustrious_films) 
 
