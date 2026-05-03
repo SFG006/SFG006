@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi there 👋, I'm SFG</h1>
 <p align="center">
-  <em>"Linux is not just an operating system; it’s a way of thinking."</em><br/>
   <em>"AI isn’t here to replace us, but to amplify human potential."</em>
 </p>
 
