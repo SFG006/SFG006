@@ -1,11 +1,5 @@
 ![GIF](./lofi.gif)
 
-<h1 align="center">Hi there 👋, I'm SFG</h1>
-<p align="center">
-  <em>"AI isn’t here to replace us, but to amplify human potential."</em>
-</p>
-
-
 ### 🔥 About Me:
 Currently pursuing a Master of Computer Applications (MCA) at the University of Delhi. I enjoy solving problems, building tools, and learning technologies by going deep into the why behind them.
 - 📫 Reach me at: shivanshg005@gmail.com  
