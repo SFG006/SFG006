@@ -11,6 +11,7 @@ Currently pursuing a Master of Computer Applications (MCA) at the University of 
 #### 🧠 Languages & Scripting
 <p align="center">
   <img src="./python-icon.svg" width="100" />
+  <img src="./cpp-icon.svg" width="100" />
   <img src="./bash.png" width="100" />
 </p>
 
