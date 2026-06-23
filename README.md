@@ -28,8 +28,9 @@ Currently pursuing a Master of Computer Applications (MCA) at the University of 
 
 #### 🧰 IDEs & Notebooks
 <p align="center">
-  <img src="./jupyter_notebook.png" width="100" />
   <img src="./pycharm.png" width="100" />
+  <img src="./jupyter_notebook.png" width="100" />
+  <img src="./clion.svg" width="100" />
 </p>
 
 
