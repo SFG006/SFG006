@@ -52,7 +52,7 @@ Currently last year of Master of Computer Applications (MCA) at the University o
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SFG006&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="display:inline-block;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SFG006&theme=dark&hide_border=true" style="display:inline-block;" />
@@ -64,7 +64,7 @@ Currently last year of Master of Computer Applications (MCA) at the University o
 
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SFG006&theme=gruvbox&no-frame=false&no-bg=true&margin-w=8" /> </p>
 
 
