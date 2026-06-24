@@ -11,35 +11,44 @@ Currently last year of Master of Computer Applications (MCA) at the University o
 
 #### Languages & Scripting
 <p align="center">
-  <img src="./python-icon.svg" width="70" />
+  <img src="./python-icon.svg" width="60" />
   <img src="./cpp-icon.svg" width="100" />
-  <img src="./bash.png" width="70" />
+  <img src="./bash.png" width="60" />
 </p>
 
 #### Backend Frameworks
 <p align="center">
-  <img src="fastapi-icon.svg" width="100" />
-  <img src="flask.svg" width="100" />
+  <img src="fastapi-icon.svg" width="60" />
+  <img src="flask.svg" width="60" />
 </p>
 
 
-#### Tools & Platforms
+
+
+#### DevOps & Deployment:
 <p align="center">
-  <img src="./linux.png" width="100" />
-  <img src="./github-icon.svg" width="100" />
-  <img src="./git.png" width="100" />
-  <img src="./ubuntu.png" width="100" />
-  <img src="./mysql-icon.svg" width="100" />
-  <img src="./docker-icon.svg" width="100" />
+  <img src="./docker-icon.svg" width="60" />
+  <img src="./linux.png" width="60" />
+  <img src="./github-icon.svg" width="60" />
+  <img src="./git.png" width="60" />
+  <img src="./ubuntu.png" width="60" />
+   <img src="./hugging-face-icon (1).svg" width="60" />
+  
 </p>
 
+
+#### Databases
+<p align="center">
+  <img src="./mysql-icon.svg" width="60" />
+</p>
 
 #### IDEs & Notebooks
 <p align="center">
-  <img src="./pycharm.png" width="100" />
-  <img src="./jupyter_notebook.png" width="100" />
-  <img src="./clion.svg" width="100" />
+  <img src="./pycharm.png" width="60" />
+  <img src="./jupyter_notebook.png" width="60" />
+  <img src="./clion.svg" width="60" />
 </p>
+
 
 
 
