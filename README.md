@@ -7,13 +7,13 @@ Currently last year of Master of Computer Applications (MCA) at the University o
 - 📫 Reach me at: [@Linktree](https://linktr.ee/_SFG_)
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 #### Languages & Scripting
 <p align="center">
-  <img src="./python-icon.svg" width="100" />
+  <img src="./python-icon.svg" width="70" />
   <img src="./cpp-icon.svg" width="100" />
-  <img src="./bash.png" width="100" />
+  <img src="./bash.png" width="70" />
 </p>
 
 #### Backend Frameworks
