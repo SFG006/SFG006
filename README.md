@@ -1,5 +1,7 @@
 ![GIF](./lofi.gif)
 
+<img width="2520" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/12f62f82-8cda-4a7a-a0ad-6d0059e0d274" />
+
 ### 🔥 About Me:
 Currently pursuing a Master of Computer Applications (MCA) at the University of Delhi. I enjoy solving problems, building tools, and learning technologies by going deep into the why behind them.
 - 📫 Reach me at: shivanshg005@gmail.com  
