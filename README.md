@@ -1,23 +1,29 @@
 ![GIF](./lofi.gif)
 
-<img width="2520" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/12f62f82-8cda-4a7a-a0ad-6d0059e0d274" />
 
-### 🔥 About Me:
-Currently pursuing a Master of Computer Applications (MCA) at the University of Delhi. I enjoy solving problems, building tools, and learning technologies by going deep into the why behind them.
-- 📫 Reach me at: shivanshg005@gmail.com  
-- 🎬 I’m editing films on [@illustrious_films](https://instagram.com/illustrious_films) 
+###  About Me:
+I’m a software engineer who builds scalable backend systems and deploys applied machine learning models into production.
+Currently last year of Master of Computer Applications (MCA) at the University of Delhi.
+- 📫 Reach me at: [@Linktree](https://linktr.ee/_SFG_)
 
 
 # 💻 Tech Stack:
 
-#### 🧠 Languages & Scripting
+#### Languages & Scripting
 <p align="center">
   <img src="./python-icon.svg" width="100" />
   <img src="./cpp-icon.svg" width="100" />
   <img src="./bash.png" width="100" />
 </p>
 
-#### 🛠️ Tools & Platforms
+#### Backend Frameworks
+<p align="center">
+  <img src="fastapi-icon.svg" width="100" />
+  <img src="flask.svg" width="100" />
+</p>
+
+
+#### Tools & Platforms
 <p align="center">
   <img src="./linux.png" width="100" />
   <img src="./github-icon.svg" width="100" />
@@ -28,7 +34,7 @@ Currently pursuing a Master of Computer Applications (MCA) at the University of 
 </p>
 
 
-#### 🧰 IDEs & Notebooks
+#### IDEs & Notebooks
 <p align="center">
   <img src="./pycharm.png" width="100" />
   <img src="./jupyter_notebook.png" width="100" />
